@@ -1,0 +1,61 @@
+.mainn{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid white;
+    border-radius: 1rem;
+    padding: 2.5rem;
+    margin: 2rem;
+
+}
+.spann{
+    color: white;
+    font-size: 1rem;
+    font-style: italic;
+    text-decoration: underline;
+}
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 2rem;
+    justify-content: space-evenly;
+}
+.innerimg{
+    width: 10vw;
+    height: 20vh;
+}
+.innerr{
+    margin-top: 0.3rem;
+    font-size: 1rem;
+    color: white;
+}
+.buttons{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-direction: column; */
+}
+.bttn1{
+    margin: 1rem;
+    width: 5vw;
+    height: 5vh;
+    font-size: 1rem;
+    background-color:  rgb(7, 163, 7);
+    color: black;
+    border-radius: 1.5rem;
+}
+.bttn2{
+    width: 5vw;
+    margin: 1rem;
+    height: 5vh;
+    font-size: 1rem;
+    background-color: red;
+    color: black;
+    border-radius: 1.5rem;
+}
+
+
+.btnname{
+    font-size: 1rem;
+    color: black;
+}

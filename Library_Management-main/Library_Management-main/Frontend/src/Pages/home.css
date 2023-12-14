@@ -1,0 +1,63 @@
+.homepage{
+    width: 100vw;
+    height: 89.5vh;
+}
+.first{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.onee{
+    padding-left: 5rem;
+    margin-top: 9rem;
+    font-weight: bold;
+    color:white;
+    font-size: 6rem;
+}
+.two1{
+    margin-top: -1.3rem;
+    padding-left: 6rem;
+    font-weight: bold;
+    color: white;
+    font-size: 4.3rem;
+}
+.inner1{
+    padding-top: 6rem;
+    width: 50vw;
+    height: 85.5vh;
+}
+.inner2{
+    width: 50vw;
+    height: 85.5vh;
+    right: -18rem;
+}
+.btnn{
+    padding-left: 7rem;
+    padding-top: 0.5rem;
+}
+.btn{
+    background-color: rgb(33, 32, 32);
+    height: 6vh;
+    padding-top: 0.5rem;
+    width: 9vw;
+    border: 1.5px solid white;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: white;
+}
+.tag{
+    margin-top: 0.5rem;
+    padding-left: 6rem;
+    font-size: 1.2rem;
+    color: white;
+}
+.btn:hover{
+    color:  white;
+    cursor:pointer;
+}
+.inner2img{
+    padding-top: 4rem;
+    padding-left: 12rem;
+    width: 34vw;
+    height: 82.5vh;
+}

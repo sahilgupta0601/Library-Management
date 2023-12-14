@@ -1,0 +1,39 @@
+.navbar{
+    
+}
+.end{
+    width: 100vw;
+    height: 0.5vh;
+    background-color: white;
+}
+.first{
+    padding-left: 8rem;
+    display: flex;
+    flex-direction: row;
+}
+.image{
+    width: 3vw;
+    height: 5vh;
+}
+.two{
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 70rem; 
+}
+.three{
+    padding-left: 2rem;
+    list-style: none;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+.four{
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    text-decoration: none;
+    color: white;
+}

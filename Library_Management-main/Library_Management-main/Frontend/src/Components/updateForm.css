@@ -1,0 +1,30 @@
+.formm{
+    padding-left: 15rem;
+    padding-top: 3.5rem;
+}
+.labels{
+    color: white;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    padding-left: 8rem;
+}
+.input1{
+    padding-left: 8rem;
+    margin-top: 0.4rem;
+}
+.input2{
+    width: 60vw;
+    height: 4vh;
+    border-radius: 0.5rem;
+}
+.input3{
+    padding-left: 42.5rem;
+    margin-top: 0.4rem;
+}
+.btnnn{
+    width: 5.5vw;
+    height: 4vh;
+    font-size: 1.2rem;
+    background-color: rgb(7, 163, 7);
+    border-radius: 0.5rem;
+}
